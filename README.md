@@ -28,7 +28,7 @@ python ethermail.py
 ```
 If you are running the code for the first time, a .txt will be created depending on your choice of proxy. Open the .txt and put your proxies there. For regular proxies, as many proxies as there are in the file, so many accounts will be registered. 
 
-You can register 5 accounts on 1 ip, after which the ip will be banned.
+Up to 5 accounts can be registered on 1 IP, after which the IP will be banned.
 
 Temporary email addresses are used to register referrals.
 
